@@ -1,5 +1,5 @@
 {
-  "name": "average-rating",
+  "name": "@batya002/average-rating",
   "version": "1.0.0",
   "description": "A simple package for calculating average ratings.",
   "main": "dist/index.js",
