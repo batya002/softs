@@ -1,25 +1,29 @@
 {
-  "name": "@batya002/average-rating",
+  "name": "@batya__002/average-rating",
   "version": "1.0.0",
   "description": "A simple package for calculating average ratings.",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "scripts": {
-    "build": "tsc",
-    "start": "node dist/index.js",
-    "clean": "rm -rf dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/batya002/softs.git"
-  },
   "keywords": [
     "average",
     "rating",
     "array",
     "typescript"
   ],
-  "author": "Batya",
+  "homepage": "https://github.com/batya002/softs#readme",
+  "bugs": {
+    "url": "https://github.com/batya002/softs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batya002/softs.git"
+  },
   "license": "ISC",
-  "type": "module"
+  "author": "Batya",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "clean": "rm -rf dist"
+  }
 }
