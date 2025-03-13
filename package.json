@@ -1,0 +1,25 @@
+{
+  "name": "average-rating",
+  "version": "1.0.0",
+  "description": "A simple package for calculating average ratings.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "clean": "rm -rf dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "average",
+    "rating",
+    "array",
+    "typescript"
+  ],
+  "author": "Batya",
+  "license": "ISC",
+  "type": "module"
+}
