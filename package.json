@@ -1,6 +1,6 @@
 {
   "name": "@batya__002/average-rating",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple package for calculating average ratings.",
   "keywords": ["average", "rating", "array", "typescript"],
   "homepage": "https://github.com/batya002/softs#readme",
